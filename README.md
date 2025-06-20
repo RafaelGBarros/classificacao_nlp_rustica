@@ -1,4 +1,4 @@
-# Categorização Supervisionada de Frases — CERAMIDAS
+# Categorização Supervisionada de Frases
 
 Este projeto tem como objetivo realizar a categorização supervisionada de frases em português, utilizando técnicas de processamento de linguagem natural (PLN) com a biblioteca SpaCy. O foco está em identificar as palavras mais relevantes de cada categoria a partir de um conjunto de frases, e posteriormente classificar novas frases de acordo com essas categorias.
 
